@@ -22,7 +22,7 @@
 ## [tutorial](https://reactjs.org/tutorial/tutorial.html)
 ## [tool](https://github.com/mars/create-react-app-buildpack)
 
-# Codecademy
+# JSX
 ### [Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
 - Working in virtual DOM is more efficiency than working with real DOM manipulation
 - In updated react, virtual DOM only updates changed object only.
@@ -30,4 +30,12 @@
 - class: className,
 - self-closing tags,
 - event listener: lower case word
-https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-event-listeners?action=resume_content_item
+- [jsx syntax](https://reactjs.org/docs/jsx-in-depth.html)
+- variables, ternary operator, conditional statement
+- React.createElement
+
+# React component
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/component-class?action=resume_content_item
