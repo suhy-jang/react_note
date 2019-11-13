@@ -34,7 +34,7 @@
 - variables, ternary operator, conditional statement
 - React.createElement
 
-# React component
+# React components
 import React from 'react';
 import ReactDOM from 'react-dom';
 ### class names are written in UpperCamelCase
@@ -44,7 +44,14 @@ import ReactDOM from 'react-dom';
 
 ### [understanding this in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
+# Components interacting
+### Components render other Components
+- [Sample code](./../additional/profile_page)
+- [like JS Module systems](http://eloquentjavascript.net/10_modules.html)
+- [React’s specific module system comes from ES6](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
+- [ES6’s module system](https://exploringjs.com/es6/ch_modules.html)
 
+### this.props
+https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/this-props-intro?action=resume_content_item
 
-
-https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/component-class?action=resume_content_item
+### this.state
