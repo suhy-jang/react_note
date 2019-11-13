@@ -37,5 +37,14 @@
 # React component
 import React from 'react';
 import ReactDOM from 'react-dom';
+### class names are written in UpperCamelCase
+- https://en.wikipedia.org/wiki/Naming_convention_(programming)#Java
+
+### [JavaScript ES2015 class syntax](https://exploringjs.com/es6/ch_classes.html)
+
+### [understanding this in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+
+
+
 
 https://www.codecademy.com/courses/react-101/lessons/your-first-react-component/exercises/component-class?action=resume_content_item
