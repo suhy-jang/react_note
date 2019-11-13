@@ -53,5 +53,12 @@ import ReactDOM from 'react-dom';
 
 ### this.props
 - [Prop displayer sample code](./../additional/prop/)
+- [Prop name follows Javascript variable naming rules](https://mathiasbynens.be/notes/javascript-identifiers)
+- event hanlder
+  - naming conventions : what type of event you are listening for
+    - ex) handleClick , handleKeyPress
+- props.children
+  - if plural : array type
+  - singular : non-array
 
 ### this.state
