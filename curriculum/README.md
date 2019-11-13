@@ -46,19 +46,21 @@ import ReactDOM from 'react-dom';
 
 # Components interacting
 ### Components render other Components
-- [Sample code](./../additional/profile_page/)
+- [Sample code](./../examples/1_profile_page/)
 - [Like JS Module systems](http://eloquentjavascript.net/10_modules.html)
 - [React’s specific module system comes from ES6](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
 - [ES6’s module system](https://exploringjs.com/es6/ch_modules.html)
 
 ### this.props
-- [Prop displayer sample code](./../additional/prop/)
+- [Prop displayer sample code](./../examples/2_prop/)
 - [Prop name follows Javascript variable naming rules](https://mathiasbynens.be/notes/javascript-identifiers)
-- event hanlder
+- [event hanlder](./../examples/4_talker)
   - naming conventions : what type of event you are listening for
     - ex) handleClick , handleKeyPress
-- props.children
+- [props.children](./../examples/5_props_children)
   - if plural : array type
   - singular : non-array
+- [default props](./../examples/6_default_prop/)
 
 ### this.state
+https://www.codecademy.com/courses/react-101/lessons/this-state/exercises/this-state-intro?action=resume_content_item
