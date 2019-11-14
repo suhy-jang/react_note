@@ -89,3 +89,10 @@ import ReactDOM from 'react-dom';
 - presentational component will always get rendered by a container component.
 - [Document](https://medium.com/@learnreact/container-components-c0e67432e005#.gacsoomn1)
 - [Sample code](./../examples/12_guinea_pigs/)
+
+### propTypes
+- [Sample code](./../examples/13_prop_types/)
+- [Sample code](./../examples/14_prop_types_2/)
+
+### React forms
+https://www.codecademy.com/courses/react-102/lessons/react-forms/exercises/react-forms-intro?action=resume_content_item
