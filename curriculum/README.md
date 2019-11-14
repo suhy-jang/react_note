@@ -83,3 +83,9 @@ import ReactDOM from 'react-dom';
 - We can omit 'px' ex) '100px' -> 100
 - [Document](https://reactjs.org/docs/dom-elements.html)
 - [Sample code](./../examples/11_styles/)
+
+### Container components from presentational components
+- logic components and presentational components should be seperated.
+- presentational component will always get rendered by a container component.
+- [Document](https://medium.com/@learnreact/container-components-c0e67432e005#.gacsoomn1)
+- [Sample code](./../examples/12_guinea_pigs/)
