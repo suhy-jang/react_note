@@ -68,3 +68,10 @@ import ReactDOM from 'react-dom';
 - [React DOCS handling events](https://reactjs.org/docs/handling-events.html)
 - #setState method calls 'render' function
 - [Sample code](./../examples/7_toggle_color/)
+
+### Authorization form project
+
+### Stateless component from stateful component
+- In the same component, don't update it's prop
+- [Stateful, stateless Sample code](./../examples/8_stateless_stateful/)
+- [Receive event handler Sample code](./../examples/9_receive_event_handler/)
