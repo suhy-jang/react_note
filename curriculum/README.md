@@ -75,3 +75,11 @@ import ReactDOM from 'react-dom';
 - In the same component, don't update it's prop
 - [Stateful, stateless Sample code](./../examples/8_stateless_stateful/)
 - [Receive event handler Sample code](./../examples/9_receive_event_handler/)
+
+### Child components update their sibling's props
+- [Sample code](./../examples/10_child_updates_sibling)
+
+### Style
+- We can omit 'px' ex) '100px' -> 100
+- [Document](https://reactjs.org/docs/dom-elements.html)
+- [Sample code](./../examples/11_styles/)
