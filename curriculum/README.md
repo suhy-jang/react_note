@@ -63,4 +63,8 @@ import ReactDOM from 'react-dom';
 - [default props](./../examples/6_default_prop/)
 
 ### this.state
-https://www.codecademy.com/courses/react-101/lessons/this-state/exercises/this-state-intro?action=resume_content_item
+- [Dynamic information](http://www.teach-ict.com/as_a2_ict_new/ocr/AS_G061/311_data_info_knowledge/static_dynamic_data/miniweb/pg4.htm)
+- [ES6 JS Class](https://hacks.mozilla.org/2015/07/es6-in-depth-classes/)
+- [React DOCS handling events](https://reactjs.org/docs/handling-events.html)
+- #setState method calls 'render' function
+- [Sample code](./../examples/7_toggle_color/)
