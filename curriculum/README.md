@@ -105,9 +105,18 @@ import ReactDOM from 'react-dom';
   - controlled component : no memory
   - [Document](https://reactjs.org/docs/forms.html)
 
-### Lifecycle methods
+### Lifecycle methods mounting
 - When a component calls it calls this three methods in order
   - componentWillMount -> render -> componentDidMount
 - [Component Mounting Sample code](./../examples/16_component_will_mount/)
 
-https://www.codecademy.com/courses/react-102/lessons/updating-unmounting-lifecycle-methods/exercises/updating-lifecycle-methods?action=resume_content_item
+### Lifecycle methods updating
+- A component updates every time that it renders, starting with second order
+  - componentWillReceiveProps
+  - shouldComponentUpdate
+  - componentWillUpdate
+  - render
+  - componentDidUpdate
+- [Component updating Sample code](./../examples/17_component_update/)
+- [Document](https://reactjs.org/docs/components-and-props.html)
+- [How to create a react app](https://www.codecademy.com/articles/how-to-create-a-react-app)
