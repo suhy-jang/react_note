@@ -106,4 +106,8 @@ import ReactDOM from 'react-dom';
   - [Document](https://reactjs.org/docs/forms.html)
 
 ### Lifecycle methods
-https://www.codecademy.com/courses/react-102/lessons/mounting-lifecycle-methods/exercises/whats-lifecycle-method?action=resume_content_item
+- When a component calls it calls this three methods in order
+  - componentWillMount -> render -> componentDidMount
+- [Component Mounting Sample code](./../examples/16_component_will_mount/)
+
+https://www.codecademy.com/courses/react-102/lessons/updating-unmounting-lifecycle-methods/exercises/updating-lifecycle-methods?action=resume_content_item
