@@ -1,8 +1,10 @@
 # Options
 #### [freecodecamp - redux](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/)
+
 #### contact to teacher
 - ask questions
   - twit https://twitter.com/OhansEmmanuel with #UnderstandingRedux
+
 ##### Chapter 1 : Getting to know Redux
 
 #### egghead
@@ -23,9 +25,11 @@
 ## [tool](https://github.com/mars/create-react-app-buildpack)
 
 # JSX
+
 ### [Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
 - Working in virtual DOM is more efficiency than working with real DOM manipulation
 - In updated react, virtual DOM only updates changed object only.
+
 ### practiced
 - class: className,
 - self-closing tags,
@@ -45,6 +49,7 @@ import ReactDOM from 'react-dom';
 ### [understanding this in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 # Components interacting
+
 ### Components render other Components
 - [Sample code](./../examples/1_profile_page/)
 - [Like JS Module systems](http://eloquentjavascript.net/10_modules.html)
@@ -95,4 +100,10 @@ import ReactDOM from 'react-dom';
 - [Sample code](./../examples/14_prop_types_2/)
 
 ### React forms
-https://www.codecademy.com/courses/react-102/lessons/react-forms/exercises/react-forms-intro?action=resume_content_item
+- [Sample code](./../examples/15_user_input/)
+- controlled component and uncontrolled component
+  - controlled component : no memory
+  - [Document](https://reactjs.org/docs/forms.html)
+
+### Lifecycle methods
+https://www.codecademy.com/courses/react-102/lessons/mounting-lifecycle-methods/exercises/whats-lifecycle-method?action=resume_content_item
