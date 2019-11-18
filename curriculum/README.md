@@ -1,11 +1,9 @@
-# Options
+# Available Options
 #### [freecodecamp - redux](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/)
 
 #### contact to teacher
 - ask questions
   - twit https://twitter.com/OhansEmmanuel with #UnderstandingRedux
-
-##### Chapter 1 : Getting to know Redux
 
 #### egghead
 - [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
@@ -16,7 +14,7 @@
 #### [odin](https://www.theodinproject.com/courses/javascript/lessons/react)
 
 
-# Chosen option
+# Chosen Option
 ## [egghead](https://egghead.io/courses/the-beginner-s-guide-to-react)
 ## [codecademy 1](https://www.codecademy.com/learn/react-101)
 ## [codecademy 2](https://www.codecademy.com/learn/react-102)
@@ -120,3 +118,19 @@ import ReactDOM from 'react-dom';
 - [Component updating Sample code](./../examples/17_component_update/)
 - [Document](https://reactjs.org/docs/components-and-props.html)
 - [How to create a react app](https://www.codecademy.com/articles/how-to-create-a-react-app)
+
+
+# Egghead tutorial
+https://egghead.io/courses/the-beginner-s-guide-to-react
+
+# Scrimba tutorial
+https://scrimba.com/g/glearnreact
+- Mon, 1st : 1~24
+- Mon, 2nd : 25~50
+- Mon, 3rd : 51~59
+
+## [tutorial](https://reactjs.org/tutorial/tutorial.html)
+- Tue, 1st
+
+## [tool](https://github.com/mars/create-react-app-buildpack)
+- Tue, 2nd
