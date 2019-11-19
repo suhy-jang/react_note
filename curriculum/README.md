@@ -125,12 +125,26 @@ https://egghead.io/courses/the-beginner-s-guide-to-react
 
 # Scrimba tutorial
 https://scrimba.com/g/glearnreact
-- Mon, 1st : 1~24
-- Mon, 2nd : 25~50
-- Mon, 3rd : 51~59
+
+### [The difference between function based component and class based component](https://scrimba.com/p/p7P5Hd/c3bNDCz)
+### [Supported events](https://reactjs.org/docs/events.html#supported-events)
+### Lifecycle methods
+- [How and when](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+- [Component lifecycle changes(deprecated)](https://reactjs.org/blog/2018/03/29/react-v-16-3.html#component-lifecycle-changes)
+- deprecated: componentWillMount, componentWillReceiveProps, componentWillUpdate
+- [Sample Code](./../examples/18_component_lifecycle/app.js)
+- additional resources:
+  - https://reactjs.org/docs/react-component.html#static-getderivedstatefromprops
+  - https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html
+  - https://reactjs.org/docs/react-component.html#getsnapshotbeforeupdate
+
+- Mon : 1~24
+- Tue : 25~50
+- Wed : 51~59
+
 
 ## [tutorial](https://reactjs.org/tutorial/tutorial.html)
-- Tue, 1st
+- Thu
 
 ## [tool](https://github.com/mars/create-react-app-buildpack)
-- Tue, 2nd
+- Thu
