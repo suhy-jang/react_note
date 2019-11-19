@@ -123,8 +123,7 @@ import ReactDOM from 'react-dom';
 # Egghead tutorial
 https://egghead.io/courses/the-beginner-s-guide-to-react
 
-# Scrimba tutorial
-https://scrimba.com/g/glearnreact
+# [Scrimba tutorial](https://scrimba.com/g/glearnreact)
 
 ### [The difference between function based component and class based component](https://scrimba.com/p/p7P5Hd/c3bNDCz)
 ### [Supported events](https://reactjs.org/docs/events.html#supported-events)
@@ -133,15 +132,26 @@ https://scrimba.com/g/glearnreact
 - [Component lifecycle changes(deprecated)](https://reactjs.org/blog/2018/03/29/react-v-16-3.html#component-lifecycle-changes)
 - deprecated: componentWillMount, componentWillReceiveProps, componentWillUpdate
 - [Sample Code](./../examples/18_component_lifecycle/app.js)
+- [Sample Code update](./../examples/18_component_lifecycle/componentDidUpdate.js)
 - additional resources:
   - https://reactjs.org/docs/react-component.html#static-getderivedstatefromprops
   - https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html
   - https://reactjs.org/docs/react-component.html#getsnapshotbeforeupdate
 
-- Mon : 1~24
-- Tue : 25~50
-- Wed : 51~59
+### Api
+- [fetch](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
+- [api practice website](https://swapi.co/)
+- [promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [Sample Code](./../examples/18_component_lifecycle/componentDidMount.js)
 
+### Form
+- [doc](https://reactjs.org/docs/forms.html)
+- [Sample Code](./../examples/19_form/app.js)
+
+
+- Mon : 1~24
+- Tue : 25~45
+- Wed : 46~59
 
 ## [tutorial](https://reactjs.org/tutorial/tutorial.html)
 - Thu
