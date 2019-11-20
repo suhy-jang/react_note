@@ -147,7 +147,11 @@ https://egghead.io/courses/the-beginner-s-guide-to-react
 ### Form
 - [doc](https://reactjs.org/docs/forms.html)
 - [Sample Code](./../examples/19_form/app.js)
-
+- [Formik](https://jaredpalmer.com/formik/docs/overview)
+- [Sample Code 2](./../examples/19_form/app2.js)
+- [Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [Sample Code 3](./../examples/19_form/app3.js)
+- [Structure improved sample code](./../examples/19_form/structured)
 
 - Mon : 1~24
 - Tue : 25~45
