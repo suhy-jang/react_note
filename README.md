@@ -153,12 +153,30 @@ https://egghead.io/courses/the-beginner-s-guide-to-react
 - [Sample Code 3](./../examples/19_form/app3.js)
 - [Structure improved sample code](./../examples/19_form/structured)
 
-- Mon : 1~24
-- Tue : 25~45
-- Wed : 46~59
+### Writing modern react apps
+- [Sample Code](./../examples/21_modern_react/app.js)
+- Other modern/advanced React features/topics to learn:
+  - [Official React Context API](https://reactjs.org/docs/context.html)
+  - [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
+  - [render props](https://reactjs.org/docs/render-props.html)
+  - [Higher Order Components](https://reactjs.org/docs/higher-order-components.html)
+  - [React Router](https://reacttraining.com/react-router/core/guides/philosophy)
+  - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+  - [React lazy, memo, and Suspense](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
+- [useState Sample Code](./../examples/21_modern_react/use_state.js)
+- [useEffect Sample Code](./../examples/21_modern_react/use_effect.js)
+- [useEffect Sample Code 2](./../examples/21_modern_react/use_effect_2.js)
+
+### ideas
+- [ideas 1](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
+- [ideas 2](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+- [ideas 3](https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
 
 ## [tutorial](https://reactjs.org/tutorial/tutorial.html)
 - Thu
 
 ## [tool](https://github.com/mars/create-react-app-buildpack)
 - Thu
+
+### additional resources
+- [prop types and default types](https://www.npmjs.com/package/prop-types)
