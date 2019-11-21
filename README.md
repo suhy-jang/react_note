@@ -23,6 +23,7 @@
 ## [tool](https://github.com/mars/create-react-app-buildpack)
 
 # JSX
+- Each React element is a JavaScript object that you can store in a variable or pass around in your program
 
 ### [Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
 - Working in virtual DOM is more efficiency than working with real DOM manipulation
@@ -173,10 +174,11 @@ https://egghead.io/courses/the-beginner-s-guide-to-react
 - [ideas 3](https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
 
 ## [tutorial](https://reactjs.org/tutorial/tutorial.html)
-- Thu
+- https://reactjs.org/tutorial/tutorial.html#lifting-state-up-again
 
 ## [tool](https://github.com/mars/create-react-app-buildpack)
-- Thu
 
 ### additional resources
 - [prop types and default types](https://www.npmjs.com/package/prop-types)
+- [confusing behavior of 'this'](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+- [shouldComponentUpdate](https://reactjs.org/docs/optimizing-performance.html#examples)
