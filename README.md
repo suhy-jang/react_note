@@ -176,7 +176,11 @@ https://egghead.io/courses/the-beginner-s-guide-to-react
 ## [tutorial](https://reactjs.org/tutorial/tutorial.html)
 - https://reactjs.org/tutorial/tutorial.html#lifting-state-up-again
 
-## [tool](https://github.com/mars/create-react-app-buildpack)
+## [deploy](https://github.com/mars/create-react-app-buildpack)
+
+## prettier
+- [install](https://prettier.io/)
+- [odin tutorial for linting](https://www.theodinproject.com/courses/javascript/lessons/linting)
 
 ### additional resources
 - [prop types and default types](https://www.npmjs.com/package/prop-types)
